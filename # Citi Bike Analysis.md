@@ -1,5 +1,5 @@
 # Citi Bike Analysis 
-Can a bike sharing business thrive in Des Moines? The following presentation will display data to demonstrate why a bike sharing company may be a good idea in Des Moines.[https://public.tableau.com/profile/daniel.schroeder#!/vizhome/CitiBike_15940115665170/BikeSharingAnalysis?publish=yes](https://public.tableau.com/profile/daniel.schroeder#!/vizhome/CitiBike_15940115665170/BikeSharingAnalysis?publish=yes2)
+Can a bike sharing business thrive in Des Moines? The following presentation will display data to demonstrate why a bike sharing company may be a good idea in Des Moines.[Link to Presentation](https://public.tableau.com/profile/daniel.schroeder#!/vizhome/CitiBike_15940115665170/BikeSharingAnalysis?publish=yes)
 ## Report details
 The first page of the presentation shows how NYC is a very popular bike sharing city. Citi Bike data is used to display analysis of bike rides in August.
 According to Longwoods international, 13.7 million visitors generated $838M in spending in 2016. CatchdesMoines.com says, “Des Moines continues to over-index relative to the nation average in activity areas such as brewery visits, festivals/fairs, concerts, museums and sports. This aligns wit the interests of the coveted millennial and gen X travel segments, as evidenced by the 6% visitation increase from 2015 in the 18-44 group. “
